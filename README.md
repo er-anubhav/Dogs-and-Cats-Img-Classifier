@@ -1,1 +1,1 @@
-# Dogs-and-Cats-Img-Classifier
+# Dogs and Cats Image Classifier
